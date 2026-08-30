@@ -1,0 +1,6 @@
+{
+  "name": "دیجی‌کالا",
+  "description": "برنامه دیجی‌کالا برای دسترسی سریع، تمام‌صفحه و روان به فروشگاه اینترنتی دیجی‌کالا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
